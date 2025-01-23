@@ -7,7 +7,7 @@ The purpose of creating this software is to learn the process of developing and 
 
 ## YouTube Demonstration
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/pV_qp0o0xew?si=FbVzmoQ0BkGpwwcS))
+[Software Demo Video]([https://youtu.be/pV_qp0o0xew?si=FbVzmoQ0BkGpwwcS]))
 
 # Development Environment
 
